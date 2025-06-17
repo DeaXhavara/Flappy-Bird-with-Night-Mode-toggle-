@@ -34,7 +34,7 @@ git clone https://github.com/DeaXhavara/FlappyBird.git
 ---
 ## ⚠️ JavaFX Setup Warning
 
-**Heads up! JavaFX setup is often the reason a project "doesn't work" — not the code itself.**
+**Heads up! JavaFX setup is often the reason a project "doesn't work".**
 
 This project was built using **JavaFX SDK 23**, and it should work with:
 - Java **17**
@@ -50,7 +50,7 @@ This project was built using **JavaFX SDK 23**, and it should work with:
 ```
 4. Still stuck? Feel free to open an issue on the repo.
 ---
-# 👩‍💻 About the Project
+# About the Project
 
 This was my **first ever JavaFX project**, built from scratch in **Eclipse IDE**.
 It was a personal challenge to explore GUI development and event-driven programming using Java.
