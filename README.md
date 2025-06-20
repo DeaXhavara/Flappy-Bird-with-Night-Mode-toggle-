@@ -63,7 +63,6 @@ Feel free to check out the code. Feedback is welcome!
 ---
 
 ## About the Author
-
 **Dea Xhavara**
 - Computer Engineer Undergraduate & Researcher
 - [LinkedIn](https://www.linkedin.com/in/deaxhavara)
