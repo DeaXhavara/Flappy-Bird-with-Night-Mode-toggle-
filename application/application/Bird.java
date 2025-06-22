@@ -12,7 +12,7 @@ public class Bird {
     private Ellipse birdShape;
     private int yMotion;
     private Image[] birdFrames;
-    private int currentFrameIndex = 0;
+    private int currentFrameIndex= 0;
     private Timeline birdAnimation;
     
     public Bird(Image[] frames) {
