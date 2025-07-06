@@ -10,6 +10,7 @@ A Flappy Bird clone made with JavaFX in Eclipse IDE. Includes custom game physic
 - Scoring system
 - Night mode toggle after every 5 points
 - Sound effects
+- Wings animation
 
 ## Screenshots
 
