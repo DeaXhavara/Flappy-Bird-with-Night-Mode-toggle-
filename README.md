@@ -37,7 +37,7 @@ git clone https://github.com/DeaXhavara/FlappyBird.git
 ---
 ## ⚠️ JavaFX Setup Warning
 
-**Heads up! JavaFX setup is often the reason a project "doesn't work".**
+**JavaFX setup is often the reason a project "doesn't work".**
 
 This project was built using **JavaFX SDK 23**, and it should work with:
 - Java **17**
