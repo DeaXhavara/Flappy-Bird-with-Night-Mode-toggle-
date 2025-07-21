@@ -51,7 +51,7 @@ This project was built using **JavaFX SDK 23**, and it should work with:
 ```bash
 --module-path /path/to/javafx-sdk-23/lib --add-modules javafx.controls,javafx.fxml
 ```
-4. Still stuck? Feel free to open an issue on the repo.
+4. Feel free to open an issue on the repo.
 ---
 # About the Project
 
