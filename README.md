@@ -15,16 +15,16 @@ A Flappy Bird clone made with JavaFX in Eclipse IDE. Includes custom game physic
 ## Screenshots
 
 ### 1. Game Start
-<img src="./screenshots/bird1.PNG" alt="Game Start" width="300" />
+<img src="./screenshots/bird1.PNG" alt="Game Start" width="400" />
 
 ### 2. Gameplay
-<img src="./screenshots/bird2.PNG" alt="Gameplay" width="300" />
+<img src="./screenshots/bird2.PNG" alt="Gameplay" width="400" />
 
 ### 3. Night Mode Transition
-<img src="./screenshots/bird3.PNG" alt="Night Mode" width="300" />
+<img src="./screenshots/bird3.PNG" alt="Night Mode" width="400" />
 
 ### 4. Game Over
-<img src="./screenshots/bird4.PNG" alt="Game Over" width="300" />
+<img src="./screenshots/bird4.PNG" alt="Game Over" width="400" />
 
 ## How to Run
 1. Clone the repo: 
