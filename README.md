@@ -8,7 +8,7 @@ A Flappy Bird clone made with JavaFX in Eclipse IDE. Includes custom game physic
 - Gravity & jump physics
 - Collision detection
 - Scoring system
-- Night mode toggle after every 5 points
+- Dark mode toggle after every 5 points
 - Sound effects
 - Wings animation
 
